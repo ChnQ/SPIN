@@ -1,7 +1,7 @@
 、
 
 <div align="center">
-  <h1>The Tug of War Within: Mitigating the Fairness-Privacy Conflicts in Large Language Models</h1>
+  <h1>[ACL'2025 Oral] The Tug of War Within: Mitigating the Fairness-Privacy Conflicts in Large Language Models</h1>
   <br />
   <span style="color:red">📢 <strong><i>If you are interested in our work, please star ⭐ our project.</i></strong></span>
 
